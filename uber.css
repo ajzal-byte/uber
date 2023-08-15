@@ -37,7 +37,7 @@
   cursor: pointer;
 }
 .nav-logo{
-  background-image: url(images/uber-logo.png);
+  background-image: url(uber-logo.png);
   background-size: cover;
   width: 60.34px;
   height: 45px;
@@ -241,7 +241,7 @@
 .down-img{
   width: 1152px;
   height: 269.78px;
-  background-image: url(images/whyRideWithUs_desktop.svg);
+  background-image: url(whyRideWithUs_desktop.svg);
   background-size: cover;
   margin-top: 40px;
 }
